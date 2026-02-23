@@ -1,0 +1,33 @@
+body {
+    color: black;
+    background-color:antiquewhite;
+    direction: rtl;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    color: rgb(10, 10, 117);
+    border: 3px solid rgb(11, 11, 116);
+}
+
+hr {
+    border: 1px dashed rgb(145, 111, 67);
+}
+
+h2 {
+    color: red;
+    border-right: 5px solid red;
+}
+
+h3 {
+    color: red;
+    border-right: 5px solid red;
+}
+
+pre {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+

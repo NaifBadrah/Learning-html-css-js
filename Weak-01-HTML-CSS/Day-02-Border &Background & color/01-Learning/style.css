@@ -1,0 +1,20 @@
+body {
+    direction: ltr;
+}
+
+h1 {
+    color: rgba(86, 19, 124, 0.534);
+    background-color: red;
+    border-top: 5px solid green;
+}
+
+p {
+    color: blue;
+    border-top: 5px dotted green;
+}
+
+h2 {
+    text-align: center;
+    border: 5px dashed green;
+    border-radius: 20px;
+}

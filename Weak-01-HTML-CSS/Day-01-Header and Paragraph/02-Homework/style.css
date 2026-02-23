@@ -1,0 +1,49 @@
+body {
+    direction: rtl;
+    background-color: rgb(66, 62, 62);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.412);
+    border: 5px solid rgb(120, 120, 238);
+    border-radius: 5px;
+}
+
+h2 {
+    background-color: rgb(89, 86, 78);
+    border-right: 10px solid yellow;
+    color: yellow;
+}
+
+h3 {
+    color: aqua;
+    border: 2px dashed aqua;
+    text-align: center;
+}
+
+h5 {
+    border-bottom: 2px dotted red;
+    color: red;
+}
+
+h6 {
+    color: aquamarine;
+    text-align: center;
+}
+
+pre {
+    background-color: rgb(37, 66, 67);
+    text-align: center;
+}
+
+a {
+    color: rgb(107, 107, 221);
+}
+
+hr {
+    border: 1px solid rgb(118, 118, 118);
+}
+
+

@@ -1,0 +1,45 @@
+body {
+    direction: rtl;
+    font-family:sans-serif ;
+    background-color: rgb(42, 36, 36);
+    color: white;
+    text-align: center;
+}
+
+.head-1 {
+    text-align: center;
+    background-color: red;
+    border-bottom:7px solid rgba(93, 28, 28, 0.428) ;
+}
+
+.para {
+    color: beige;
+    text-align: center;
+}
+
+hr {
+    border: 1px solid rgb(56, 56, 56);
+}
+
+.head-2 , .head-3 , .head-4 , .head-5 {
+    background-color: rgb(80, 79, 79);
+    border-right: 10px solid red;
+    text-align: right;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+video {
+    width: 200px;
+    height: 200px;
+}
+
+embed {
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+}
+

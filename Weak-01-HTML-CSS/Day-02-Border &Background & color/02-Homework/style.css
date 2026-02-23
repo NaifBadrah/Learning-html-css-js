@@ -1,0 +1,55 @@
+.H{
+    background-color: rgb(176, 201, 213);
+    direction: rtl;
+}
+.head{
+    background-color: rgb(13, 75, 122);
+    color: #ffffff;
+    text-align: center;
+    border: 3px solid rgb(29, 151, 211);
+    border-radius: 28px ;
+}
+.header{
+    background-color: #edecec;
+    border: 2px solid rgb(137, 137, 138);
+    border-radius: 14px ;
+    color: #094e9d;
+
+}
+.head2{
+    background-color: #edecec;
+    border-right: 7px solid #0b869f;
+        color: #094e9d;
+
+    
+}
+.mark{
+    background-color: rgb(227, 244, 0);
+}
+.text_d{
+    text-decoration: underline;
+}
+.font1{
+    font-style: italic;
+    font-weight: bold;
+}
+.--{
+    border: 1px dashed ;
+    color: #094e9d;
+
+}
+.b{
+    font-weight: bold;
+}
+.line{
+    text-decoration:line-through;
+}
+.Link{
+    color: #1d2e86;
+}
+.Link:hover{
+    color: #384827;
+}
+.Link:active{
+    color: #ff0000;
+}

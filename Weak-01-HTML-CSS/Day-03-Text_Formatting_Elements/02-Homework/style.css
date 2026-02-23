@@ -1,0 +1,89 @@
+body {
+    direction: rtl;
+    background-color: bisque;
+    color: black;
+    font-family:sans-serif;
+}
+
+.h-1 {
+    background-color: rgb(224, 133, 67);
+    color: white;
+    border: 3px solid saddlebrown;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.s-1 {
+    font-weight: bold;
+}
+
+hr {
+    border: 1px dashed sienna;
+}
+
+.h-2 {
+    background-color: rgb(216, 123, 57);
+    color: rgb(141, 64, 9);
+    border-right: 10px solid orange;
+}
+
+.p-2 {
+    background-color: blanchedalmond;
+    border: 2px dashed orange;
+}
+
+.s-2 {
+    font-weight: bold;
+}
+
+.s-2-1 {
+    text-decoration: line-through;
+}
+
+.s-2-2 {
+    text-decoration: underline;
+}
+
+.h-3 {
+    background-color: rgb(216, 123, 57);
+    color: rgb(141, 64, 9);
+    border-right: 10px solid orange;
+}
+
+.s-3 {
+    background-color: yellow;
+}
+
+.s-3-1 {
+    text-decoration: line-through;
+}
+
+.s-3-2 {
+    font-weight: bold;
+}
+
+a:link {
+    color: rgb(152, 100, 4);
+}
+
+a:active {
+    color: brown;
+}
+
+.h-4 {
+    background-color: rgb(216, 123, 57);
+    color: rgb(141, 64, 9);
+    border-right: 10px solid orange;
+}
+
+.h-4:hover {
+    background-color: blueviolet;
+    color: black;
+}
+
+.fotter {
+    color: orangered;
+    text-align: center;
+    border-top:2px solid orange ;
+}
